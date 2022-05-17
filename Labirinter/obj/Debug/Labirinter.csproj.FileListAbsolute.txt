@@ -1,0 +1,61 @@
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.exe.config
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.exe.config
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\bin\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\ДЗ 2\HW 2\Labirinter\obj\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\bin\Debug\Labirinter.exe.config
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\bin\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\bin\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\Labirinter\HW 2\Labirinter\obj\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\bin\Debug\Labirinter.exe.config
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\bin\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\bin\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С-шарп\Labirinter\Labirinter\obj\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\bin\Debug\Labirinter.exe.config
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\bin\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\bin\Debug\Labirinter.pdb
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.exe
+C:\Users\Alex\source\repos\С#\Labirinter\Labirinter\obj\Debug\Labirinter.pdb
+D:\C#\Labirinter\Labirinter\bin\Debug\Labirinter.exe.config
+D:\C#\Labirinter\Labirinter\bin\Debug\Labirinter.exe
+D:\C#\Labirinter\Labirinter\bin\Debug\Labirinter.pdb
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.FLabirinter.resources
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.Properties.Resources.resources
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.GenerateResource.cache
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.CoreCompileInputs.cache
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.exe
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.pdb
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.AssemblyReference.cache
+D:\C#\Labirinter\Labirinter\obj\Debug\Labirinter.csproj.SuggestedBindingRedirects.cache
